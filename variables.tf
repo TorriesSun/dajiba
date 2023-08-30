@@ -6,7 +6,7 @@ variable "secret_key" {
   
 }
 
-variable "region" {
+variable "aws_region" {
     default = "ap-southeast-2"
   
 }
